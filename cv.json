@@ -1,66 +1,59 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Adelis Jose Trocoso",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "adelisjose1997@gmail.com",
+    "phone": "+57 4120772195",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "¡Soy Adelis! Tengo mas de 5 años de experiencia desarrollando aplicaciones web y móviles enfocadas en la experiencia para los usuarios, tales como redes sociales, paneles de administración o backoffice, salud, hotelería, sistemas de gestión de contenido, etc. También me he dedicado al desarrollo del backend y APIs consumidas por la mayoría de las aplicaciones antes mencionadas. Mi objetivo es proporcionar soluciones web y móviles interactivas enfocadas en la intuitividad.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "4101",
+      "city": "Falcón",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Venezuela"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/adelis-jose-trocoso-7b4833195/"
       },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+      
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "url": "https://github.com/AdelisJose97"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "CPANAX",
+      "position": "Frontend Developer",
+      "startDate": "2023-02-25",
+      "endDate": "2023-10-29",
+      "summary": "Encargado del análisis y rediseño de la UX/UI de la aplicación web para crear aplicaciones `no code` llamada Codeless. Se logró mejorar tanto visualmente como la experiencia de usuario en la mayoría de las interfaces, facilitando radicalmente el uso, permitiendo entender de forma más intuitiva y aprovechar las funciones de la aplicación.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Lyncros",
+      "position": "Full Stack Developer",
+      "url": "https://www.lyncros.com/work/ucrop-it/",
+      "startDate": "2022-07-20",
+      "endDate": "2023-02-20",
+      "summary": "Asignado al equipo de integraciones externas y posteriormente a Crop Story, pude desarrollar y dar mantenimiento a diversas aplicaciones, como el backoffice para gestión interna, la aplicación móvil de Ucropit desarrollada con React Native, además del backend, APIs y múltiples microservicios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Freelance",
+      "position": "Full Stack Developer",
+      "startDate": "2018-01-15",
+      "endDate": "2022-07-20",
+      "summary": "Encargado de desarrollar aplicaciones web, como redes sociales, paneles de administración, salud, hotelería, sistemas de gestión de contenido, etc. Además, del desarrollo del backend o APIs consumidas por la mayoría de las soluciones antes mencionadas.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +71,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+    "url": "http://www.unefa.edu.ve/portal/",
+    "area": "Ingeniería, Análisis de sistemas informáticos/Analista",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2015-01-07",
+    "endDate": "2020-01-20",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -185,6 +178,20 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "NOSQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Alto",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
     }
   ],
   "languages": [
@@ -210,66 +217,36 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "simplycodeless",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicacion web para crear aplicaciones 'no code'. Permite elegir desde la base de datos hasta el diseño adaptandose a las necesidades especifica de cada usuario.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "'no code'",
+        "UI",
+        "UX"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.simplycodeless.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "ucrop.it",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Conecta a agricultores y empresas agroalimentarias para acordar, trazar y compartir objetivos sostenibles en historias de cultivos verificadas desde el campo hasta las marcas.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Aplicaciones móviles",
+        "Estrategia de crecimiento",
+        "Blockchain"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://play.google.com/store/apps/details?id=com.ucropit.ucropitapp&pcampaignid=web_share"
     },
     {
-      "name": "Codember",
+      "name": "crushium",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Sitio web de contenido exclusivo cuya misión es que los creadores de contenido tengan una plataforma donde podrán ofrecer su material único e interactuar con sus fieles seguidores.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Red Social",
+        "Contenido exclusivo"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://crushium-pmv-1.onrender.com"
     }
   ]
 }
