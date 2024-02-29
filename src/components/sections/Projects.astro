@@ -3,13 +3,23 @@ import GitHub from "@/icons/GitHub.astro"
 import Section from "../Section.astro"
 
 import { projects } from "@cv"
+interface IProject {
+  url: string
+  description: string
+  highlights: string[]
+  name: string
+  isActive?: boolean
+  github?: string
+        
+}
 ---
+
 
 <Section title="Proyectos">
   <ul>
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+        ({ url, description, highlights, name, isActive, github } : IProject) => {
           return (
             <li>
               <article>
