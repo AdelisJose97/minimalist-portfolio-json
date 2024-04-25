@@ -166,6 +166,13 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
@@ -173,8 +180,15 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
+      "name": "ReactNative",
+      "level": "Alto",
+      "keywords": [
+        "Aplicacion movil", "Desarrollo nativo"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Alto",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
@@ -199,7 +213,22 @@
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
+    },
+    {
+      "name": "Graphql",
+      "level": "Alto",
+      "keywords": [
+        "Manipulacion de datos", "Apis", "Consulta de datos", "Backend"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Alto",
+      "keywords": [
+        "BBDD", "NoSQL", "Consulta de datos", "Manipulacion de datos"
+      ]
     }
+    
   ],
   "languages": [
     {
