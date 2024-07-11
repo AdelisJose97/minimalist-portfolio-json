@@ -4,9 +4,9 @@
     "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
     "email": "adelisjose1997@gmail.com",
-    "phone": "+57 4120772195",
-    "url": "https://midu.dev",
-    "summary": "¡Soy Adelis! Tengo mas de 5 años de experiencia desarrollando aplicaciones web y móviles enfocadas en la experiencia para los usuarios, tales como redes sociales, paneles de administración o backoffice, salud, hotelería, sistemas de gestión de contenido, etc. También me he dedicado al desarrollo del backend y APIs consumidas por la mayoría de las aplicaciones antes mencionadas. Mi objetivo es proporcionar soluciones web y móviles interactivas enfocadas en la intuitividad.",
+    "phone": "+584120772195",
+    "url": "https://porfolio-dev-eight.vercel.app/",
+    "summary": "+5 años de experiencia desarrollando aplicaciones web y móviles enfocadas en la experiencia para los usuarios tales como redes sociales, paneles de administración o backoffice, CRM, CMS, salud, hotelería, etc. Me especializo en la creación de aplicaciones interactivas enfocadas en la experiencia de usuario.",
     "location": {
       "address": "",
       "postalCode": "4101",
@@ -31,8 +31,8 @@
       "name": "CPANAX",
       "position": "Frontend Developer",
       "startDate": "2023-03-25",
-      "endDate": "2023-11-29",
-      "summary": "Encargado del análisis y rediseño de la UX/UI de la aplicación web para crear aplicaciones `no code` llamada Codeless. Se logró mejorar tanto visualmente como la experiencia de usuario en la mayoría de las interfaces, facilitando radicalmente el uso, permitiendo entender de forma más intuitiva y aprovechar las funciones de la aplicación.",
+      "endDate": "2024-05-29",
+      "summary": "Lideré el análisis y rediseño de la experiencia de usuario (UX/UI) de la aplicación web para crear aplicaciones ‘no code’ llamada Codeless. Logramos mejorar tanto visualmente como la experiencia del usuario en la mayoría de las interfaces, facilitando radicalmente su uso y permitiendo una comprensión más intuitiva de las funciones de la aplicación. Tecnologías: Next.js, Typescript, Styled Components, Tailwind, Material UI, Firebase, Dnd-kit, Reactflow, Cypress, Swiperjs, Zustand, Chart.js, React-window, Framer Motion.",
       "highlights": [
         "Started the company"
       ]
@@ -43,7 +43,7 @@
       "url": "https://www.lyncros.com/work/ucrop-it/",
       "startDate": "2022-01-20",
       "endDate": "2023-02-20",
-      "summary": "Asignado al equipo de integraciones externas y posteriormente a Crop Story, pude desarrollar y dar mantenimiento a diversas aplicaciones, como el backoffice para gestión interna, la aplicación móvil de Ucropit desarrollada con React Native, además del backend, APIs y múltiples microservicios.",
+      "summary": "Lideré el desarrollo de la plataforma de circuitos exportadores, la cual permite a las grandes empresas visualizar las producciones sustentables, validar sus acuerdos de sustentabilidad y realizar transacciones con los productores. Desarrollé y mantuve diversas aplicaciones, como el backoffice para la gestión interna, la aplicación móvil de Ucropit (desarrollada con React Native), el backend, APIs y varios microservicios. También formé parte del equipo encargado del desarrollo de la calculadora de emisiones de carbono, un hito importante que permitió llegar a acuerdos con grandes empresas como Bimbo. Tecnologías: React, React Native, Expo, Next.js, TypeScript, Formik, GraphQL, Styled Components, Material UI, Angular, Angular Material, Fuse.js, Geolib, Lottie, Moment, React-window, Wkt, Redux, Node.js, Express, NestJS, TypeORM, Swagger, MongoDB, PostgreSQL.",
       "highlights": [
         "Started the company"
       ]
@@ -51,9 +51,9 @@
     {
       "name": "Freelance",
       "position": "Full Stack Developer",
-      "startDate": "2018-01-15",
+      "startDate": "2019-01-15",
       "endDate": "2021-11-20",
-      "summary": "Encargado de desarrollar aplicaciones web, como redes sociales, paneles de administración, salud, hotelería, sistemas de gestión de contenido, etc. Además, del desarrollo del backend o APIs consumidas por la mayoría de las soluciones antes mencionadas.",
+      "summary": "Encargado de desarrollar aplicaciones web, como redes sociales, paneles de administración, salud, hotelería, sistemas de gestión de contenido, etc. He estado a cargo desde el análisis de requerimientos y alcance del proyecto, desarrollo frontend y backend hasta el despliegue a producción. Tecnologías: React, Vue.js, Vuetify, Firebase, Styled Components, Redux, Context API, Ant Design, Material UI, Bootstrap, Angular, Angular Material, Node.js, Express, MongoDB, PostgreSQL.",
       "highlights": [
         "Started the company"
       ]
@@ -187,6 +187,13 @@
       ]
     },
     {
+      "name": "Astro",
+      "level": "Alto",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Web Framework", "Sitios web basados en contenido"
+      ]
+    },
+    {
       "name": "Vue",
       "level": "Alto",
       "keywords": [
@@ -253,36 +260,130 @@
   }],
   "projects": [
     {
-      "name": "simplycodeless",
+      "name": "Simplycodeless",
       "isActive": true,
-      "description": "Aplicacion web para crear aplicaciones 'no code'. Permite elegir desde la base de datos hasta el diseño adaptandose a las necesidades especifica de cada usuario.",
+      "description": "Aplicación web para crear aplicaciones bajo el paradigma 'no code', con solo arrastrar y soltar el usuario puede crear aplicaciones a su gusto. Permite elegir desde la base de datos hasta el diseño adaptandose a las necesidades especifica de cada usuario.",
       "highlights": [
-        "'no code'",
-        "UI",
-        "UX"
+        "Frontend Developer",
+        "Next.js",
+        "Styled Components",
+        "TypeScript",
+        "Tailwind",
+        "Material UI",
+        "Cypress",
+        "Drag & drop",
+        "Firebase",
+        "Swiper",
+        "Zustand"
       ],
       "url": "https://betaq.simplycodeless.com/"
     },
     {
-      "name": "ucrop.it",
+      "name": "Ucrop.it",
       "isActive": true,
       "description": "Aplicación móvil que conecta a agricultores y empresas agroalimentarias para acordar, trazar y compartir objetivos sostenibles en historias de cultivos verificadas desde el campo hasta las marcas.",
       "highlights": [
-        "Aplicaciones móviles",
-        "Estrategia de crecimiento",
-        "Blockchain"
+        "Desarrollador Full Stack",
+        "Desarrollo nativo",
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "Tailwind",
+        "Amplify",
+        "Firebase",
+        "Geolocalización",
+        "I18n",
+        "Redux"
       ],
       "url": "https://play.google.com/store/apps/details?id=com.ucropit.ucropitapp&pcampaignid=web_share"
     },
     {
-      "name": "crushium",
+      "name": "Crushium",
       "isActive": true,
       "description": "Sitio web de contenido exclusivo cuya misión es que los creadores de contenido tengan una plataforma donde podrán ofrecer su material único e interactuar con sus fieles seguidores.",
       "highlights": [
-        "Red Social",
-        "Contenido exclusivo"
+        "Full Stack Developer",
+        "Responsive Desing",
+        "React",
+        "Styled Components",
+        "Framer Motion",
+        "Node.js",
+        "Express",
+        "Nodemailer",
+        "Passport",
+        "Socket.io",
+        "MongoDB"        
       ],
       "url": "https://crushium-pmv-1.onrender.com"
+    },
+    {
+      "name": "Planeta Juego",
+      "isActive": true,
+      "description": "Plataforma de juegos de mesa online. Puedes disfrutar con tus amigos tus juegos de mesa favoritos, escoge tu planeta de juego, juega y gana.",
+      "highlights": [
+        "Full Stack Developer",
+        "Responsive Desing",
+        "Next.js",
+        "Mantine",
+        "Tailwind",
+        "React Query",
+        "TypeScript",
+        "Zustand",
+        "Node.js",
+        "Fastify",
+        "Socket.io",
+        "MongoDB"
+      ],
+      "url": "https://domino-app-iota.vercel.app"
+    },
+    {
+      "name": "Lidotel",
+      "isActive": true,
+      "description": "Sitio web de reconocida cadena de hoteles. Gestiona reservaciones, pedidos de menus, reclamaciones etc.",
+      "highlights": [
+        "Frontend Developer",
+        "Vue.js",
+        "Vuetify",
+        "Firebase"
+      ],
+      "url": "https://fronted-lidotel.vercel.app"
+    },
+    {
+      "name": "Tesla Landing Page",
+      "isActive": true,
+      "description": "Clon del sitio web Tesla.",
+      "highlights": [
+        "Frontend Developer",
+        "Astro",
+        "Tailwind"
+      ],
+      "url": "https://clon-tesla-landing.netlify.app/"
+    },
+    {
+      "name": "Monkey Type",
+      "isActive": true,
+      "description": "Clon del sitio web Monkey Type. Pon a prueba tus habilidades de escritura.",
+      "highlights": [
+        "Frontend Developer",
+        "Html",
+        "Css",
+        "JavaScript",
+        "Habilidades"
+      ],
+      "url": "https://monkey-type-clone-gilt.vercel.app"
+    },
+    {
+      "name": "Panic Studio",
+      "isActive": true,
+      "description": "Sitio web responsivo basado Panic Studio.",
+      "highlights": [
+        "Frontend Developer",
+        "Html",
+        "Css",
+        "JavaScript",
+        "Responsive Desing"       
+      ],
+      "url": "https://responsive-web-steel.vercel.app/"
     }
   ]
 }
